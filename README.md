@@ -8,8 +8,8 @@ Notebook Narratives for Industry from 2017 JupyterCon
 
 ## Contents
 ### Education - Open Classroom
-* Feature 1
-* Feature 2
+* Microsoft Cognitive API and Jupypter Python Notebooks
+* Dr Garth Wells University of Cambridge - Mathematics & Enginnering Notebooks
 
 ### Services - Custom Search for an Expert System Chat
 * Pre-process Text and Enrich
