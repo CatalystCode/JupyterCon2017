@@ -3,11 +3,11 @@ Microsoft Cognitive Services let you build apps with powerful algorithms to see,
 
 see the following [Cognitive API Demos](http://aka.ms/CognitiveNotebooks) 
 
-Demo [Cognitive+Services+Translation.ipynb](https://notebooks.azure.com/LeeStott-Microsoft/libraries/CogPy/html/Cognitive+Services+Translation.ipynb) 
+## Demo [Cognitive+Services+Translation.ipynb](https://notebooks.azure.com/LeeStott-Microsoft/libraries/CogPy/html/Cognitive+Services+Translation.ipynb) 
 
 Uses the Microsoft Cognitive Text Transalator API to transalate convert text from one language to another - this show practical use of Jupyter Python Notebooks in course such as lingutics.
 
-Demo [FaceDetectionAPI.ipynb](https://notebooks.azure.com/LeeStott-Microsoft/libraries/CogPy/html/FaceDetectionAPi.ipynb) 
+## Demo [FaceDetectionAPI.ipynb](https://notebooks.azure.com/LeeStott-Microsoft/libraries/CogPy/html/FaceDetectionAPi.ipynb) 
 
 Uses the Microsoft Cognitive Face Detection API to identify the following attitirbutes
 https://azure.microsoft.com/en-gb/services/cognitive-services/face/ 
@@ -29,7 +29,7 @@ Detect one or more human faces in an image and get back face rectangles for wher
 
 Using Microsoft Azure Notebooks at the University of Cambridge by Dr Garth Wells
 
-Demo [3M1 - Mathematical Methods](https://notebooks.azure.com/garth-wells/libraries/CUED-3M1) 
+## Demo [3M1 - Mathematical Methods](https://notebooks.azure.com/garth-wells/libraries/CUED-3M1) 
 
 These notebooks are in support of the linear algebra section of the course 3M1: Mathematical Methods at the Department of Engineering, University of Cambridge.
 Viewing and running
@@ -50,7 +50,7 @@ All material is copyright of Garth N. Wells (gnw20@cam.ac.uk).
 All text is made available under the Creative Commons Attribution-ShareAlike 4.0 International Public License (https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 All computer code is released under the MIT license. 
 
-Demo [CUED-IA-Computing-Michaelmas](https://notebooks.azure.com/garth-wells/libraries/CUED-IA-Computing-Michaelmas)
+## Demo [CUED-IA-Computing-Michaelmas](https://notebooks.azure.com/garth-wells/libraries/CUED-IA-Computing-Michaelmas)
 
 Part IA Computing (Michaelmas Term)
 This repository contains the Jupyter notebook activities for Part IA of the computing course (Michaelmas Term) in the Engineering Tripos at University of Cambridge.
