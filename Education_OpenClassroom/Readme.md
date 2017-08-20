@@ -6,12 +6,20 @@ see the following [Cognitive API Demos](http://aka.ms/CognitiveNotebooks)
 Demo [Cognitive+Services+Translation.ipynb](https://notebooks.azure.com/LeeStott-Microsoft/libraries/CogPy/html/Cognitive+Services+Translation.ipynb) Uses the Microsoft Cognitive Text Transalator API to transalate convert text from one language to another - this show practical use of Jupyter Python Notebooks in course such as lingutics.
 
 Demo [FaceDetectionAPI.ipynb](https://notebooks.azure.com/LeeStott-Microsoft/libraries/CogPy/html/FaceDetectionAPi.ipynb) Uses the Microsoft Cognitive Face Detection API to identify the following attitirbutes
+https://azure.microsoft.com/en-gb/services/cognitive-services/face/ 
+
 - Face Attributes 
 - Age
 - Emotion
 - Gender
 - HeadPose
 - FaceRectangle
+
+Examples of Usage include
+- Face verification
+Check the likelihood that two faces belong to the same person. The API will return a confidence score of how likely it is that the two faces belong to one person.
+- Face detection
+Detect one or more human faces in an image and get back face rectangles for where in the image the faces are, along with face attributes that contain machine learning-based predictions of facial features. The face attribute features available are: Age, Emotion, Gender, Pose, Smile and Facial Hair, along with 27 landmarks for each face in the image.
 
 # Demo 2 - Using Jupyter Notebooks within the curricula at University of Cambridge Maths & Engineering 
 
