@@ -1,3 +1,4 @@
+* 
 # JupyterCon2017
 Notebook Narratives for Industry from 2017 JupyterCon
 
@@ -15,9 +16,12 @@ Notebook Narratives for Industry from 2017 JupyterCon
  Dr Garth Wells University of Cambridge - Mathematics & Enginnering Notebooks hosted on http://Notebooks.azure.com 
 
 ### Services - Custom Search for an Expert System Chat
-* Pre-process Text and Enrich
-* Upload Search Index
-* Query and Test
+* Description - Querying specific content areas quickly and easily is a common services sector need. Fast traversal of specialized publications, customer support knowledge bases or document repositories allows service companies to deliver their particular service efficiently and effectively. Simple FAQs don’t cover enough ground, and a string search isn’t effective or efficient for those not familiar with the domain or the document set. Instead, these companies can deliver a custom search experience that saves their clients time and provides them better service through a question and answer format.  In this project, we leveraged Azure Search and Cognitive Services and we share our custom code for iterative testing, measurement and indexer redeployment. In our solution, the customized search engine will form the foundation for delivering a question and answer experience in a specific domain area.
+
+* The notebook here allows you to pre-process and enrich source text, upload a search index, and interactively query that search engine.
+
+* Read the complete code story behind this example at the Microsoft Develop Blog here: https://www.microsoft.com/developerblog/2017/08/07/developing-a-custom-search-engine-for-an-expert-system/
+
 
 ### Retail - Image Classification for Automatic Stockkeeping
 * Feature 1
