@@ -1,4 +1,4 @@
-
+* 
 # JupyterCon2017
 Notebook Narratives for Industry from 2017 JupyterCon
 
@@ -20,7 +20,7 @@ Notebook Narratives for Industry from 2017 JupyterCon
 
 * The notebook here allows you to pre-process and enrich source text, upload a search index, and interactively query that search engine.
 
-Read the complete code story behind this example at the Microsoft Develop Blog here: https://www.microsoft.com/developerblog/2017/08/07/developing-a-custom-search-engine-for-an-expert-system/
+* Read the complete code story behind this example at the Microsoft Develop Blog here: https://www.microsoft.com/developerblog/2017/08/07/developing-a-custom-search-engine-for-an-expert-system/
 
 
 ### Retail - Image Classification for Automatic Stockkeeping
