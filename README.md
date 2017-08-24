@@ -24,19 +24,17 @@ Notebook Narratives for Industry from 2017 JupyterCon
 
 
 ### Retail - Image Classification for Automatic Stockkeeping
-* Feature 1
-* Feature 2
+* Description - Using a photo of an end-cap, classify if the stocking is in-compliance or out of compliance with the planogram.
+Leverages CNTK.  Uses Fast R-CNN.
 
-### Services - Media Deep Learning Photo Generation
-* Feature 1
-* Feature 2
 
 ### Sports Training - Sensor Based Expertise Classification
-* Process basic IOT sensor data by the athlete
-* Model relative to expert 
-* Analyze deficit areas
+* Description - With wearable IoT sensors, we can collect positional and motion data that allow us to measure this expertise level distinction between professionals and amateurs with high precision and accuracy.  In our analysis, we discovered the sensor data from just nine body positions provides ample signal to generate distinct activity signatures for the professional skiers when compared with the amateurs.  In the notebook we describe how we engineer features for time segments that describe differences that describe motion and expertise relative to the expert.  This allows amateurs to analyze deficit areas to improve their skiing.
 
  
-## Description
-It's our hope that these notebook examples will prove useful in developing your industry specific solutions.
+## More Links
+https://aka.ms/NotebookNarratives 
+http://LearnAnalytics.microsoft.com/
+http://Microsoft.com/AI
+http://Microsoft.com/DeveloperBlog
 
