@@ -7,6 +7,8 @@ Notebook Narratives for Industry from 2017 JupyterCon
 
 > Designed for you to re-use for your own solutions
 
+To run Jupyter Notebooks directly from this Github use [Binder](http://mybinder.org/) Turn a GitHub repo into a collection of interactive notebooks
+
 ## Contents
 ### Education - Open Classroom
 * Microsoft Cognitive API http://aka.ms/cognitive and Azure Jupyter Python Notebooks showcasing the Microsoft Cognitive APIs which can be used across curriculum. 
