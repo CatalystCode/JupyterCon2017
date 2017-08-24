@@ -33,8 +33,8 @@ Leverages CNTK.  Uses Fast R-CNN.
 
  
 ## More Links
-https://aka.ms/NotebookNarratives 
-http://LearnAnalytics.microsoft.com/
-http://Microsoft.com/AI
-http://Microsoft.com/DeveloperBlog
+* https://aka.ms/NotebookNarratives 
+* http://LearnAnalytics.microsoft.com/
+* http://Microsoft.com/AI
+* http://Microsoft.com/DeveloperBlog
 
