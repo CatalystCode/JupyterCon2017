@@ -83,3 +83,12 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+# Some other examples of Notebooks in Education
+
+Rich Vuduc Professor at the Georgia Institute of Technology, in the School of Computational Science and Engineering
+[Computational Engineering at Georgia Institute](https://notebooks.azure.com/richie/ )
+
+
+University of Cambridge [Engineering Module, University of Cambridge Engineering Part IB
+Information Engineering Elective Paper 8: Image Searching and Modelling Using Machine Learning](https://notebooks.azure.com/LeeStott-Microsoft/libraries/Cambridge_Engineering) 
