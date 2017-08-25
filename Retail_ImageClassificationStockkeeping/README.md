@@ -12,7 +12,7 @@ Please create a Python 3.4 environment with the appropriate setup by:
 
 - Install Anaconda
 - Create a new Anaconda environment using the included environment.yml file
-   - `conda env create --name myNewEnv -f environment.yml`
+   - `conda env create --name myNewEnv -f environment.yml python=3.4`
 - Install `scikit-image` and `opencv` using the pre-built Wheel files 
 
 NOTE: I've put the direct link to CNTK 2.1's Python 3.4 Wheel in the `environment.yml` - if you're not on Windows 64-bit, you'll need to switch that out or remove it and [install CNTK by hand](https://docs.microsoft.com/en-us/cognitive-toolkit/Setup-CNTK-on-your-machine).
